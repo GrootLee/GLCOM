@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imageFile/font.ico</file>
+        <file>imageFile/LOVE-EM-SY.jpg</file>
+    </qresource>
+</RCC>
