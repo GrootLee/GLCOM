@@ -18,7 +18,7 @@ TEMPLATE = app
 DEFINES += QT_DEPRECATED_WARNINGS
 
 #QC_ICONS = font.ico
-#RC_FILE = myapp.rc
+RC_FILE = myapp.rc
 
 # You can also make your code fail to compile if you use deprecated APIs.
 # In order to do so, uncomment the following line.
