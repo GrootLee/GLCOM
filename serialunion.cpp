@@ -43,7 +43,7 @@ SerialUnion::SerialUnion(QWidget *parent) :
 
     //状态栏初始化
     Dir::GetDirIns()->loadParam();
-    m_permanUrl->getMess("<a href=\"https://mp.weixin.qq.com/s/Feo3RDvt4Ozra9naJr1F0g\">欢迎关注公众号:隔壁码农</a>");
+    m_permanUrl->getMess("<a href=\"https://mp.weixin.qq.com/s/Feo3RDvt4Ozra9naJr1F0g\">欢迎关注公众号</a>");
     m_permanUrl->setToolTip("<img src=':/imageFile/LOVE-EM-SY.jpg'/>");
     m_norMessSend->getMess("S: 0\t");
     m_norMessRec->getMess("R: 0\t");
